@@ -8,7 +8,7 @@ Headquarter allocated in Taiwan.
 
 ## Contact info
 
-   Name: Matt Huang <br>    
+   Name: Matt Huang <br>
    Title: Senior Sales Manager <br>
    Office address: No.211, Wenhua 2nd Rd., Guishan Dist., Taoyuan City, 33377, Taiwan (R.O.C) <br>
    Tele No: +886 3 327-2345 Ext: 18455 <br>
