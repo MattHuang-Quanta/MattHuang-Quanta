@@ -8,12 +8,12 @@ Headquarter allocated in Taiwan.
 
 ## Contact info
 
-   Name: Matt Huang   
-   Title: Senior Sales Manager
-   Office address: No.211, Wenhua 2nd Rd., Guishan Dist., Taoyuan City, 33377, Taiwan (R.O.C)
-   Tele No: +886 3 327-2345 Ext: 18455
-   Email: matt.huang@quantatw.com
-   Wechat: adorepirlo
+   Name: Matt Huang .    
+   Title: Senior Sales Manager . 
+   Office address: No.211, Wenhua 2nd Rd., Guishan Dist., Taoyuan City, 33377, Taiwan (R.O.C) . 
+   Tele No: +886 3 327-2345 Ext: 18455 . 
+   Email: matt.huang@quantatw.com . 
+   Wechat: adorepirlo . 
 
 ## Product info
 
