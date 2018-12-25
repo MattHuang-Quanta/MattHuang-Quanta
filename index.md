@@ -1,4 +1,4 @@
-##Quanta Computer Profile
+## Quanta Computer Profile
 
 Established in 1988, Quanta Computer is the largest notebook computer ODM company in the world. With leading technology and strong R&D capability, Quanta has become a leader in hi-tech markets and the best partner providing quality design and manufacturing services to top-notched brands worldwide.
 
@@ -6,7 +6,7 @@ Quanta Computer has over 90,000 employees worldwide.
 
 Headquarter allocated in Taiwan.  
 
-##Contact info
+## Contact info
 Name: Matt Huang
 Title: Senior Sales Manager
 Office address: No.211, Wenhua 2nd Rd., Guishan Dist., Taoyuan 
@@ -15,7 +15,7 @@ Tele No: +886 3 327-2345 Ext: 18455
 Email: matt.huang@quantatw.com
 Wechat: adorepirlo
 
-##Product info
+## Product info
 Chromebook
 
 LI9 - 11.6” clamshell with APL/GML (Touch panel or LTE option)
